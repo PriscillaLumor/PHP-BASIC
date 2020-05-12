@@ -33,7 +33,7 @@
 
 
     <?php
-        $groente = false;
+        $groente = null;
         echo $groente;
         echo gettype($groente)."<br>";
     ?>
