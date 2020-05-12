@@ -6,10 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-    $color = "grijs";
-    echo "Mijn laptop is " .$color. " van kleur.";
-    ?>
     
+    <?php
+        $score = "0";
+        echo $score;
+    ?>  
+
 </body>
 </html>
