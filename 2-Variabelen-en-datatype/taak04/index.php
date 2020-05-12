@@ -6,12 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+
     <?php
-        $test = "true";
+        $test = true;
         echo $test."<br>";
 
-        $test = "";
+        $test = false;
         echo $test;
     ?>  
 
