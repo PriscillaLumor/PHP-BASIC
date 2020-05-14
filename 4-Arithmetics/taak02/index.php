@@ -10,25 +10,25 @@
     <?php
         $getal1 = 2;
         $getal1 += 10;
-        echo $getal1;
+        echo "$getal1<br>";
     ?>
 
 <?php
         $getal1 = 2;
         $getal1 -= 10;
-        echo $getal1;
+        echo "$getal1<br>";
     ?>
 
 <?php
         $getal1 = 2;
         $getal1 *= 10;
-        echo $getal1;
+        echo "$getal1<br>";
     ?>
 
 <?php
         $getal1 = 20;
         $getal1 /= 10;
-        echo $getal1;
+        echo "$getal1<br>";
     ?>
 
 </body>
